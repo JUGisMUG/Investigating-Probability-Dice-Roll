@@ -1,5 +1,5 @@
 # Investigating-Probability-Dice-Roll
-This a program to investigate probability by the rolling of a dice twice for 100 times and seeing how much times TT, HH and HT/TH is obtained. I made this code like an year ago but didn't evenm upload it, so I thought I would do now..
+This a program to investigate probability by the rolling of a dice twice for 100 times and seeing how much times TT, HH and HT/TH is obtained. I made this code like an year ago but didn't even upload it, so I thought I would do now..
 
 What it does:
 
