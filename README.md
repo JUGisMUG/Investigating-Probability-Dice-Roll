@@ -9,8 +9,13 @@ What it does:
 - after doing this for 100 times, it gives a count of how many times the coin got one head and one tail and how many times it got TT or HH.
 
 Some results:
+
 ![image](https://github.com/JUGisMUG/Investigating-Probability-Dice-Roll/assets/70059840/7d3180e3-1441-486b-a961-230f3dda20fd)
+
 ![image](https://github.com/JUGisMUG/Investigating-Probability-Dice-Roll/assets/70059840/dbd55fa4-9e41-4dd8-b9a5-dbad4168a326)
+
 ![image](https://github.com/JUGisMUG/Investigating-Probability-Dice-Roll/assets/70059840/109d12a3-7a2b-4a4e-b455-98cdc067887b)
+
 ![image](https://github.com/JUGisMUG/Investigating-Probability-Dice-Roll/assets/70059840/0f33385a-d18c-4be7-b7b6-92cb25553b11)
+
 ![image](https://github.com/JUGisMUG/Investigating-Probability-Dice-Roll/assets/70059840/b7007bba-d158-422e-8215-2db0e947ff48)
